@@ -8,4 +8,4 @@
 <img align="left" src="https://cdn.discordapp.com/attachments/1019371264860770376/1057316973597446285/Cross-platform_software-amico.png" heigth="600" width="600" />
 
 - 💬 Talk to me about Memes, Anime, Movies 🎥, Games 🎮, Exercise 💪🏻
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/gaston-zappulla-172b1b240/"> <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" heigth="10" /> </a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/gaston-zappulla-172b1b240/"> <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" heigth="10" width="10" /> </a>
