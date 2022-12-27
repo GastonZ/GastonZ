@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GastonZ)](https://github.com/GastonZ/github-readme-stats)
 
 <!--
 **GastonZ/GastonZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
