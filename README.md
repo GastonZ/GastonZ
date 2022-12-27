@@ -10,5 +10,5 @@
 <img src="https://cdn.discordapp.com/attachments/1019371264860770376/1057314600468611092/gmail.png" heigth="15" width="15" /> </a> 
 
 
-<img align="rigth" src="https://cdn.discordapp.com/attachments/1019371264860770376/1057316973597446285/Cross-platform_software-amico.png" heigth="600" width="600" />
+<img align="left" src="https://cdn.discordapp.com/attachments/1019371264860770376/1057316973597446285/Cross-platform_software-amico.png" heigth="600" width="600" />
 
