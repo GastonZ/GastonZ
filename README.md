@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 
-(https://github.com/GastonZ/GastonZ/blob/output/github-contribution-grid-snake.svg)
+
 
 
