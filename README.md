@@ -1,12 +1,7 @@
-## Hey you ! Hi !! I'm Gaston Zappulla
+<h1 align="center">Hey you ! Hi 👋, I'm Gaston Zappulla</h1>
+<h3 align="center">A passionate fullstack developer</h3>
 
-
-- 🌱 I’m currently learning Web and Mobile development technologies
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-
-
+<h3 align="left">Languages and Tools:</h3>
 
 
 
