@@ -3,7 +3,7 @@
 
 <img align="left" src="https://cdn.discordapp.com/attachments/1019371264860770376/1057316973597446285/Cross-platform_software-amico.png" heigth="400" width="400" />
 
-- 🌱 I'm currently learning full stack web development
+- 🌱 I'm currently learning threeJS and 3D web development
 - 🗣️ I speak English and Spanish
 - 💬 Talk to me about Memes, Anime, Movies 🎥, Games 🎮, Exercise 💪🏻
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/gaston-zappulla-172b1b240/"> <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" heigth="15" width="15" /> </a><a href="mailto:gastonzappullaryu@gmail.com">
